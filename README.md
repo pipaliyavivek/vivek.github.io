@@ -1,5 +1,5 @@
 
-[https://pipaliyavivek.github.io/vivek/](https://pipaliyavivek.github.io/vivek.github.io/)
+[https://pipaliyavivek.github.io](https://pipaliyavivek.github.io)
 # My-Portfolio
 Is the Portfolio based on html project
 ![image](https://user-images.githubusercontent.com/75718328/162467761-3d3d51dc-aec8-4442-b79a-033fb89203e1.png)
